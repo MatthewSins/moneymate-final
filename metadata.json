@@ -1,0 +1,6 @@
+{
+  "name": "MoneyMate AI",
+  "description": "AI Financial Coach for Individuals, Freelancers and Small Businesses",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1 @@
+sed -i 's/<span>Active Budgets<\/span>/<span>Active Budgets (Total Budgeted: {currencySymbol}{totalBudgeted.toFixed(2)} \/ {currencySymbol}{totalIncome.toFixed(2)})<\/span>/g' pages/ExpenseTracker.tsx
