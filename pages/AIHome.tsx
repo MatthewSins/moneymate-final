@@ -228,7 +228,7 @@ export default function AIHome() {
                 transition={{ delay: 2, duration: 0.8 }}
                 className="text-xl md:text-2xl text-muted-foreground font-light"
               >
-                Hi, I'm <span className="text-primary font-medium">MoneyMate AI</span>, your personal CA AI assistant for all your financial needs.
+                Hi, I'm <span className="text-primary font-medium">MoneyMate AI</span>, your financial coach for all your personal & business needs.
               </motion.p>
             </motion.div>
           </motion.div>
